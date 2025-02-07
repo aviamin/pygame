@@ -89,7 +89,7 @@ while running:
     pygame.draw.rect(screen, BLACK, (325, inventory_y, 50, 50), 6) 
     pygame.draw.rect(screen, BLACK, (375, inventory_y, 50, 50), 6) 
     pygame.draw.rect(screen, BLACK, (425, inventory_y, 50, 50), 6) 
-    pygame.draw.rect(screen, BLACK, (475, inventory_y, 50, 50), 6)   # width = 3
+    pygame.draw.rect(screen, BLACK, (475, inventory_y, 50, 50), 6) 
 
     
     pygame.display.update()
